@@ -1,0 +1,2 @@
+- [Telegram entertainment visibility](telegram-entertainment-visibility.md) — listings must retain an internal Telegram-verification marker independent of API-masked source fields.
+- [Listing cache invalidation](listing-cache-invalidation.md) — background JSON writes must clear raw, filtered, init, and logo caches together.

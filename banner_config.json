@@ -1,0 +1,52 @@
+{
+  "vietnam": {
+    "web": [
+      "/api/banner-video/39"
+    ],
+    "mobile": [
+      "/api/banner-video/39"
+    ]
+  },
+  "thailand": {
+    "web": [],
+    "mobile": []
+  },
+  "india": {
+    "web": [
+      "https://api.anbocas.com/storage/event/banner/Oelimnaz4NcTFrOHAhuF4apvRVRGgg5wWqtx31zp.jpg",
+      "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F06ec0e61-45d2-4605-b215-9da184c81931%2Ffull_06ec0e61-45d2-4605-b215-9da184c81931?alt=media&token=7f3e2b57-7f52-42e8-9b94-3b0050acabeb",
+      "https://api.anbocas.com/storage/event/banner/M2tjk05uqHJCnQBUWyTcec2HS11JY2cYwrdcY9eF.jpg",
+      "https://api.anbocas.com/storage/event/banner/PaoPjhsvz0fnuBlMEmJvt1PQjOU1BabQRnz3Sn0u.jpg",
+      "https://api.anbocas.com/storage/event/banner/uvrZUfnrv8D72oT3VvX6yZb9LdR0jV1pS9Ye9Ipy.jpg",
+      "https://api.anbocas.com/storage/event/banner/Lgvx9Z6kYAIH2CBvYwynSdGHt591p8mCAkjR3aJ7.jpg",
+      "https://api.anbocas.com/storage/event/banner/bk42KDt7LINHVpOZN4tJoDduSmthh4UWMaMj328P.jpg",
+      "https://api.anbocas.com/storage/event/banner/t74XavWgDiq11eugUYjoZ8BafLtj79licRZLmWLu.jpg",
+      "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F6acb8e35-a03b-44ad-8b42-e6bafa950a09%2Ffull_6acb8e35-a03b-44ad-8b42-e6bafa950a09?alt=media&token=e066ea77-e16b-4b6d-ad65-41a74566c75c",
+      "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F7555ee39-d3f2-423d-ba9b-0a6346732e96%2Ffull_7555ee39-d3f2-423d-ba9b-0a6346732e96?alt=media&token=2188c598-5b72-4b61-88df-0d08d81f73e5",
+      "https://api.anbocas.com/storage/event/banner/Lf3I6TjRcp5skBTUMeMPpGHnKQoYMPLUV2Cx3P4l.jpg",
+      "https://api.anbocas.com/storage/event/banner/gFPb3mFAGcKViT5YcZmUxasHkDoB5IvQfFkMt1d9.jpg",
+      "https://api.anbocas.com/storage/event/banner/Nx8Hl1VGxDtvVReft0WDC4rie2kMHDKsA6nnJNHv.jpg",
+      "https://api.anbocas.com/storage/event/banner/Dcj90EzdC6PSj6YYqWX866ci0AkFeMqW1EmYKbWK.png"
+    ],
+    "mobile": [
+      "https://api.anbocas.com/storage/event/banner/Oelimnaz4NcTFrOHAhuF4apvRVRGgg5wWqtx31zp.jpg",
+      "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F06ec0e61-45d2-4605-b215-9da184c81931%2Ffull_06ec0e61-45d2-4605-b215-9da184c81931?alt=media&token=7f3e2b57-7f52-42e8-9b94-3b0050acabeb",
+      "https://api.anbocas.com/storage/event/banner/M2tjk05uqHJCnQBUWyTcec2HS11JY2cYwrdcY9eF.jpg",
+      "https://api.anbocas.com/storage/event/banner/PaoPjhsvz0fnuBlMEmJvt1PQjOU1BabQRnz3Sn0u.jpg",
+      "https://api.anbocas.com/storage/event/banner/uvrZUfnrv8D72oT3VvX6yZb9LdR0jV1pS9Ye9Ipy.jpg",
+      "https://api.anbocas.com/storage/event/banner/Lgvx9Z6kYAIH2CBvYwynSdGHt591p8mCAkjR3aJ7.jpg",
+      "https://api.anbocas.com/storage/event/banner/bk42KDt7LINHVpOZN4tJoDduSmthh4UWMaMj328P.jpg",
+      "https://api.anbocas.com/storage/event/banner/t74XavWgDiq11eugUYjoZ8BafLtj79licRZLmWLu.jpg",
+      "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F6acb8e35-a03b-44ad-8b42-e6bafa950a09%2Ffull_6acb8e35-a03b-44ad-8b42-e6bafa950a09?alt=media&token=e066ea77-e16b-4b6d-ad65-41a74566c75c",
+      "https://firebasestorage.googleapis.com/v0/b/partyhunt-production.appspot.com/o/eventsPicture%2F7555ee39-d3f2-423d-ba9b-0a6346732e96%2Ffull_7555ee39-d3f2-423d-ba9b-0a6346732e96?alt=media&token=2188c598-5b72-4b61-88df-0d08d81f73e5",
+      "https://api.anbocas.com/storage/event/banner/Lf3I6TjRcp5skBTUMeMPpGHnKQoYMPLUV2Cx3P4l.jpg",
+      "https://api.anbocas.com/storage/event/banner/gFPb3mFAGcKViT5YcZmUxasHkDoB5IvQfFkMt1d9.jpg",
+      "https://api.anbocas.com/storage/event/banner/Nx8Hl1VGxDtvVReft0WDC4rie2kMHDKsA6nnJNHv.jpg",
+      "https://api.anbocas.com/storage/event/banner/Dcj90EzdC6PSj6YYqWX866ci0AkFeMqW1EmYKbWK.png"
+    ]
+  },
+  "indonesia": {
+    "web": [],
+    "mobile": []
+  }
+}
